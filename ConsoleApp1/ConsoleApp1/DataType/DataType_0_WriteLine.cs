@@ -1,7 +1,6 @@
-﻿
-namespace ConsoleApp
+﻿namespace Study_Base_1.DataType
 {
-    class Program_1
+    class DataType_0_WriteLine
     {
         internal static void WriteText()
         {
@@ -13,7 +12,7 @@ namespace ConsoleApp
             // String 포멧 메타문자 옵션
             // https://docs.microsoft.com/ko-kr/dotnet/api/system.console.write?view=net-6.0
             // https://docs.microsoft.com/ko-kr/dotnet/standard/base-types/standard-numeric-format-strings
-            Console.WriteLine("{0:C} {1:P} {0:X}", 123, 0.123f ,45);
+            Console.WriteLine("{0:C} {1:P} {0:X}", 123, 0.123f, 45);
 
 
         }

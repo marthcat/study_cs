@@ -1,0 +1,15 @@
+C:\Users\cjung\Source\Repos\study_cs\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Study_Base_1.exe
+C:\Users\cjung\Source\Repos\study_cs\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Study_Base_1.deps.json
+C:\Users\cjung\Source\Repos\study_cs\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Study_Base_1.runtimeconfig.json
+C:\Users\cjung\Source\Repos\study_cs\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Study_Base_1.dll
+C:\Users\cjung\Source\Repos\study_cs\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Study_Base_1.pdb
+C:\Users\cjung\Source\Repos\study_cs\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Study_Base_1.csproj.AssemblyReference.cache
+C:\Users\cjung\Source\Repos\study_cs\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Study_Base_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cjung\Source\Repos\study_cs\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Study_Base_1.AssemblyInfoInputs.cache
+C:\Users\cjung\Source\Repos\study_cs\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Study_Base_1.AssemblyInfo.cs
+C:\Users\cjung\Source\Repos\study_cs\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Study_Base_1.csproj.CoreCompileInputs.cache
+C:\Users\cjung\Source\Repos\study_cs\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Study_Base_1.dll
+C:\Users\cjung\Source\Repos\study_cs\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\Study_Base_1.dll
+C:\Users\cjung\Source\Repos\study_cs\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Study_Base_1.pdb
+C:\Users\cjung\Source\Repos\study_cs\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Study_Base_1.genruntimeconfig.cache
+C:\Users\cjung\Source\Repos\study_cs\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\Study_Base_1.dll

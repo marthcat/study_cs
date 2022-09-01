@@ -1,7 +1,6 @@
-﻿
-namespace ConsoleApp
+﻿namespace Study_Base_1.DataType
 {
-    class Program_1_Input
+    class DataType_3_Input
     {
         internal static void Read_Key()
         {
@@ -31,7 +30,7 @@ namespace ConsoleApp
             float Avg;
 
             Console.Write("국어 점수 : ");
-            Kor = Convert.ToInt32( Console.ReadLine());
+            Kor = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine();
 
             Console.Write("영어 점수 : ");

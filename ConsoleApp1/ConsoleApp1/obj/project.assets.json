@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cjung\\Source\\Repos\\study_cs\\ConsoleApp1\\ConsoleApp1\\Study_ConsoleApp.csproj",
-      "projectName": "Study_ConsoleApp",
-      "projectPath": "C:\\Users\\cjung\\Source\\Repos\\study_cs\\ConsoleApp1\\ConsoleApp1\\Study_ConsoleApp.csproj",
+      "projectUniqueName": "C:\\Users\\cjung\\Source\\Repos\\study_cs\\ConsoleApp1\\ConsoleApp1\\Study_Base_1.csproj",
+      "projectName": "Study_Base_1",
+      "projectPath": "C:\\Users\\cjung\\Source\\Repos\\study_cs\\ConsoleApp1\\ConsoleApp1\\Study_Base_1.csproj",
       "packagesPath": "C:\\Users\\cjung\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\cjung\\Source\\Repos\\study_cs\\ConsoleApp1\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",

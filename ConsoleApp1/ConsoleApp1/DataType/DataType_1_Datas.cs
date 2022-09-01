@@ -1,9 +1,9 @@
 ﻿
 using System.Runtime.CompilerServices;
 
-namespace ConsoleApp
+namespace Study_Base_1.DataType
 {
-    class Program_1_ValueType
+    class DataType_1_Datas
     {
         static bool BoolVar;
         internal static void WriteBool()
@@ -15,7 +15,7 @@ namespace ConsoleApp
 
         internal static void WriteCharacterCode()
         {
-            Char Mun = '7';
+            char Mun = '7';
             int Num = Mun;
             Num = Num + 1;
             Console.WriteLine("Mun = {0}, 문자 상수값 = {1}, 유니코드 문자 = {2}", (int)Mun, Num, (char)Num);
@@ -32,14 +32,14 @@ namespace ConsoleApp
             Console.WriteLine(Result);
 
         }
-        
+
         internal static void WriteIntegerTypeRange()
         {
             Console.WriteLine("Int = {0} ~ {1}", int.MinValue, int.MaxValue);
             Console.WriteLine("Uint = {0} ~ {1}", uint.MinValue, uint.MaxValue);
             Console.WriteLine("Short = {0} ~ {1}", short.MinValue, short.MaxValue);
         }
-        
+
         internal static void WriteFloatTypes()
         {
             double dblVal = 3.141;
@@ -99,7 +99,7 @@ namespace ConsoleApp
 
             float fVal = 0.0f;
             float.TryParse("3.15", out fVal);
-            Console.WriteLine("{0} : {1}", fVal.GetType().ToString(), fVal);            
+            Console.WriteLine("{0} : {1}", fVal.GetType().ToString(), fVal);
         }
     }
 

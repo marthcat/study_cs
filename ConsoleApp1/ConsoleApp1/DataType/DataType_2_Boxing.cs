@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Study_ConsoleApp
+namespace Study_Base_1.DataType
 {
-    internal class Program_1_Boxing
+    internal class DataType_2_Boxing
     {
         internal static void Boxing1()
         {
@@ -20,7 +20,7 @@ namespace Study_ConsoleApp
             int i = 123;
             object obj = i;
             i = 456;
-            Console.WriteLine( "{0} / {1}", (int)obj, i );
+            Console.WriteLine("{0} / {1}", (int)obj, i);
 
         }
 
