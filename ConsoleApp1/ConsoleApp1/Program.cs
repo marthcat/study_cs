@@ -2,6 +2,8 @@
 using Study_Base_1.DataType;
 using Study_Base_1.Operator;
 using Study_Base_1.Array_0;
+using Study_Base_1.File_;
+using Study_Base_1.File;
 
 namespace ConsoleApp
 {
@@ -60,7 +62,16 @@ namespace ConsoleApp
             //Array_0.RetrunAraayMethod1();
             //Array_0.RetrunAraayMethod2();
             //Array_0.ClearArray();
-            Array_0.CloneArray();
+            //Array_0.CloneArray();
+
+            //File_0.WriteFile1();
+            //File_0.WriteFile2();
+            //File_0.WriteFile3();
+            //File_0.ReadFile1();
+            //File_0.ReadFile2();
+            //File_0.ReadFile3();
+
+            File_1_StringControl.SplitString();
         }
     }
 
