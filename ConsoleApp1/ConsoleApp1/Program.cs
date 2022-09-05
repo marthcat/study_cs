@@ -1,6 +1,7 @@
 ﻿
 using Study_Base_1.DataType;
 using Study_Base_1.Operator;
+using Study_Base_1.Array_0;
 
 namespace ConsoleApp
 {
@@ -51,7 +52,15 @@ namespace ConsoleApp
             //ControlFlowStatements.JumpStatements();
 
             //ExceptionStatement.TryCatch();
-            ExceptionStatement.TryCatch_throw();
+            //ExceptionStatement.TryCatch_throw();
+
+            //Array_0.UseArray();
+            //Array_0.MultiDimensionalArray();
+            //Array_0.JaggedArray();
+            //Array_0.RetrunAraayMethod1();
+            //Array_0.RetrunAraayMethod2();
+            //Array_0.ClearArray();
+            Array_0.CloneArray();
         }
     }
 
