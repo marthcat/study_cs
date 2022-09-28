@@ -1,9 +1,9 @@
 ﻿
-using Study_Base_1.DataType;
-using Study_Base_1.Operator;
-using Study_Base_1.Array_0;
-using Study_Base_1.File_;
-using Study_Base_1.File;
+using Study_Base.DataType;
+using Study_Base.Operator;
+using Study_Base.Array_0;
+using Study_Base.File_;
+using Study_Base.File;
 
 namespace ConsoleApp
 {
@@ -71,7 +71,14 @@ namespace ConsoleApp
             //File_0.ReadFile2();
             //File_0.ReadFile3();
 
-            File_1_StringControl.SplitString();
+            //File_1_StringControl.SplitString();
+            //File_1_StringControl.SplitString2();
+            //File_2_Binary.BinaryWrite();
+            //File_2_Binary.BinaryRead();
+
+            //File_3_Serialize.Serialize_();
+            //File_3_Serialize.Deserialize_();
+            File_3_Serialize.Serialize_Collection_();
         }
     }
 

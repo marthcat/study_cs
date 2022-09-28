@@ -5,7 +5,7 @@ using System.Reflection.Metadata.Ecma335;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Study_Base_1.Array_0
+namespace Study_Base.Array_0
 {
     internal class Array_0
     {

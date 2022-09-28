@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Study_Base_1.DataType
+namespace Study_Base.DataType
 {
     internal class DataType_2_Boxing
     {

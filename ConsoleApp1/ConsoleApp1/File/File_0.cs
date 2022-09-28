@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.IO;
 using System.Runtime.CompilerServices;
 
-namespace Study_Base_1.File_
+namespace Study_Base.File_
 {
     internal class File_0
     {
@@ -79,6 +79,7 @@ namespace Study_Base_1.File_
                 Console.WriteLine("{0}   /   {1}   /   {2}", value, value2, str1);
             }
         }
+
         internal static void ReadFile3()
         {
             using (StreamReader sr = new StreamReader("text3.txt"))

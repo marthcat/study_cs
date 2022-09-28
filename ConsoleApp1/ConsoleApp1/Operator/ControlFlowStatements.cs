@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Study_Base_1.Operator
+namespace Study_Base.Operator
 {
     internal class ControlFlowStatements
     {

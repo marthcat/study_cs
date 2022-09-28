@@ -1,0 +1,15 @@
+D:\_github\study_cs\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Study_Base.exe
+D:\_github\study_cs\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Study_Base.deps.json
+D:\_github\study_cs\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Study_Base.runtimeconfig.json
+D:\_github\study_cs\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Study_Base.dll
+D:\_github\study_cs\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Study_Base.pdb
+D:\_github\study_cs\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Study_Base.csproj.AssemblyReference.cache
+D:\_github\study_cs\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Study_Base.GeneratedMSBuildEditorConfig.editorconfig
+D:\_github\study_cs\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Study_Base.AssemblyInfoInputs.cache
+D:\_github\study_cs\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Study_Base.AssemblyInfo.cs
+D:\_github\study_cs\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Study_Base.csproj.CoreCompileInputs.cache
+D:\_github\study_cs\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Study_Base.dll
+D:\_github\study_cs\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\Study_Base.dll
+D:\_github\study_cs\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Study_Base.pdb
+D:\_github\study_cs\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Study_Base.genruntimeconfig.cache
+D:\_github\study_cs\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\Study_Base.dll

@@ -8,7 +8,7 @@ using System.Text.Encodings.Web;
 using System.Threading.Tasks;
 using static System.Net.Mime.MediaTypeNames;
 
-namespace Study_Base_1.DataType
+namespace Study_Base.DataType
 {
     public struct MyStruct1
     {

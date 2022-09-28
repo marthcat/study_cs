@@ -1,4 +1,4 @@
-﻿namespace Study_Base_1.DataType
+﻿namespace Study_Base.DataType
 {
     class DataType_3_Input
     {
